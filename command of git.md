@@ -44,4 +44,4 @@
 		- git stash list                // 查看保存的进度列表
 
 	- cherry pick
-		- git cherry-pick <commit ID>   // 拣选一次提交应用于当前HEAD
+		- git cherry-pick <commit ID>   // 拣选一次提交应用于当前HEAD 1
